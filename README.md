@@ -1,5 +1,7 @@
 # College Management System
 
+The College Management System is a desktop-based application developed using Visual Basic 6.0 and MS Access as the backend database. It is designed to manage and automate all the key functionalities of an educational institution, including admissions, fee management, result tracking, employee management, salary processing, library management, and report generation.
+
 A comprehensive College Management System developed in **Visual Basic 6.0** with **MS Access** as the backend.
 
 ---
