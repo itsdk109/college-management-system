@@ -69,7 +69,7 @@ To automate and simplify the functionalities of an educational institute, manage
 Project Date: 31/07/2018
 
 ## LinkedIn Profile: 
-[Deepak Kumar Choudhary] (http://www.linkedin.com/in/deepak-kumar-choudhary-1363a0267)
+**[Deepak Kumar Choudhary]** (http://www.linkedin.com/in/deepak-kumar-choudhary-1363a0267)
 ---
 
 ## 📌 Note
